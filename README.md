@@ -1,6 +1,8 @@
 Array Groups
 
-This allows the use of Array#in_groups and Array#in_groups_of to be used outside of rails.
+https://rubygems.org/gems/array_groups
+
+This gem allows the use of Array#in_groups and Array#in_groups_of to be used outside of rails.
 
 Pretty self-explanatory, but here are some examples.
 ```
